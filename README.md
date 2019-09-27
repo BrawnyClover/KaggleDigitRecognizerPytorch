@@ -1,2 +1,1 @@
-# KaggleDigitRecognizerPytorch
-I'm drunk
+KaggleDigitRecognizerPytorch
